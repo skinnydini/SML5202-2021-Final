@@ -3,10 +3,5 @@ title: home
 ---
 
 <h1>Welcome</h1>
-<p>Write your content in here as you would normally in HTML</p>
-<p>three things i like</p>
-<ul>
-<li>dogs</li>
-<li>cats</li>
-<li>birds</li>
-</ul>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J2spfXWHi7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
