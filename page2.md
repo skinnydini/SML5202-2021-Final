@@ -14,7 +14,7 @@ title: Page2
   
   <audio controls>
     <source src="https://github.com/skinnydini/SML5202-2021-Final/blob/main/audio/Record%20(online-voice-recorder.com).mp3" type="audio/mpeg">
-    "Your browser does not support this audio"
+    Your browser does not support this audio.
   <audio>
   
 </div>
