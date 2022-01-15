@@ -12,6 +12,6 @@ title: Page 2
   
 <div class="col-sm-6">
   
-  <img src="images/ipachart.png" alt="a full IPA chart">
+  <img src="images/ipachart.png" alt="a full IPA chart" style="width:1090px;height:551px;">
   
 </div>
