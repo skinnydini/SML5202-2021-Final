@@ -13,5 +13,6 @@ title: Page 2
 <div class="col-sm-6">
   
   <img src="images/ipachart.png" alt="a full IPA chart" style="width:100%;">
+  <a href="https://commons.wikimedia.org/wiki/File:IPA2005_3000px.png">International Phonetic Association</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
   
 </div>
