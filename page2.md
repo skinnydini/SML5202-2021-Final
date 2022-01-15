@@ -3,6 +3,7 @@ title: Page 2
 ---
 <style>
 h1 {text-align: center;}
+h2 {text-align: center;}
 </style>
 
 <h1>Building Blocks</h1>
@@ -19,6 +20,8 @@ h1 {text-align: center;}
 
 <div class="row">
 <div class="col-sm-6">
+  
+  <h2>Sounds and the IPA Chart</h2>
   
   <p>The IPA chart is a collection of all the human speech sounds known to linguists. It is one of the most valuable tools for a linguist to have,
   and understanding how it works is key to possessing a working knowledge of phonetics! The reason IPA (which stands for International Phonetic 
