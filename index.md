@@ -2,7 +2,7 @@
 title: home
 ---
 <style>
-h1 {text-align:center:}
+h1 {text-align:center;}
 </style>
 
 <h1>Welcome</h1>
