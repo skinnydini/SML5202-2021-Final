@@ -12,6 +12,6 @@ title: Page 2
   
 <div class="col-sm-6">
   
-  <img src="/images/ipa.gif" alt="Ipa Chart">
+  <img src="images/ipa.gif" alt="Ipa Chart">
   
 </div>
