@@ -29,6 +29,12 @@ h2 {text-align: center;}
   with the sound at the start of the words 'wig' and 'wand'. However certain other languages associate that symbol with the 'v' sound at the beginning
   of 'viola' or 'vent'. Due to this ambiguity, linguists did not previously have a way to communicate speech sounds in writing, as normal alphabet letters can be 
   pronounced differently. IPA has a unique symbol for every single sound known that humans can currently produce, according to phoneticians!</p>
+  
+  <hr>
+  
+  <p>Below is voice recorder! If you follow <a href="https://www.ipachart.com/">this link</a>, you will find an interactive version of the chart on the right! Select a character you find interesting, play the sound and see if you can repeat it accurately using the voice recording tool!</p>
+  
+  <hr>
 
   <iframe src="https://h5p.org/h5p/embed/1232947" width="1090" height="551" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *;   encrypted-media *" title="Vowel Checker"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -40,3 +46,8 @@ h2 {text-align: center;}
   <p><a href="https://commons.wikimedia.org/wiki/File:IPA2005_3000px.png">International Phonetic Association</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</p>
   
 </div>
+ 
+<hr>
+  
+  
+  
