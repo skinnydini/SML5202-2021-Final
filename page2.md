@@ -1,7 +1,9 @@
 ---
 title: Page 2
 ---
-
+<style>
+h1 {text-align: center;}
+</style>
 
 <h1>Building Blocks</h1>
 <div class="row">
