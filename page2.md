@@ -32,7 +32,7 @@ h2 {text-align: center;}
   
   <hr>
   
-  <p>Below is voice recorder! If you follow <a href="https://www.ipachart.com/">this link</a>, you will find an interactive version of the chart on the right! Select a character you find interesting, play the sound and see if you can repeat it accurately using the voice recording tool!</p>
+  <p>Below is voice recorder! If you follow <a href="https://www.ipachart.com/" target="_blank">this link</a>, you will find an interactive version of the chart on the right! Select a character you find interesting, play the sound and see if you can repeat it accurately using the voice recording tool!</p>
   
   <hr>
 
