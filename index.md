@@ -15,10 +15,14 @@ h1 {text-align:center;}
   
 </div>
 
-<div style="text-align:center:">
+<hr>
+
+<div style="text-align:center;">
 
 <p>Above is a helpful youtube video detailing the basic areas of linguistics and an overview of what linguistics is! Open the tabs below to find out more about how the areas of this website relate to the topics discussed in the video.</p>
-
+  
+<hr>
+  
 <iframe src="https://h5p.org/h5p/embed/1243399" width="1090" height="290" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Fields of Study"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 </div>
