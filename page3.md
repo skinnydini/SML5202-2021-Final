@@ -15,6 +15,9 @@
   <div style="text-align:center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/93sK4jTGrss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
+  
+  <p>Morphology is the study of words and their component parts, known by linguists as 'morphemes'. It is instinctive to assume that only words are assigned meanings. However, upon closer analysis, we can see that it isn't just entire words that have meanings.</p>
+  
   <hr>
 </div>
 
