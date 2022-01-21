@@ -9,7 +9,8 @@
 </div>
 <div class="col-sm-6">
 <h2 style="text-align:center;">Morphology</h2>
-<p>To the left is an image of a morphological tree! Throughout this section, we will explore what each part of this tree means, and what morphology is as a whole!</p>
+<p>To the left is an image of a morphological tree! Throughout this section, we will explore what each part of this tree means, and what morphology is as a whole! Watch the youtube video below for a visual introduction!</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/93sK4jTGrss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
