@@ -3,7 +3,8 @@
 <hr>
 <div class="row">
 <div class="col-sm-6">
-<<img src="images/morph.png" alt="Morphological Example" style="width:70%;height:70%">
+<img src="images/morph.png" alt="Morphological Example" style="width:70%;">
+  <a href="https://commons.wikimedia.org/wiki/File:Independently_morphology_tree.png">Annie yang</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 </div>
 <div class="col-sm-6">
 <h2 style="text-align:center;">Morphology</h2>
