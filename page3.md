@@ -1,5 +1,8 @@
-<h1>Page 3</h1>
+<div style="text-align:center;">
+<h1>Meaning</h1>
+<hr>
 <p>write your content in this file as you would normally</p>
+</div>
 
 
 <ul class="pagination justify-content-center" style="margin:20px 0">
