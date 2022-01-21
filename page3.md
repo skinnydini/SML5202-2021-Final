@@ -3,7 +3,7 @@
 <hr>
 <div class="row">
 <div class="col-sm-6">
-<<img src="images/morph.png" alt="Morphological Example" style="width:40%;">
+<<img src="images/morph.png" alt="Morphological Example" style="width:70%;">
 </div>
 <div class="col-sm-6">
 <p>To the left is an image of a morphological tree! Throughout this section, we will explore what each part of this tree means, and what morphology is as a whole!</p>
