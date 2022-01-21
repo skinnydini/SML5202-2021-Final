@@ -1,5 +1,5 @@
 
-<h1>Meaning</h1>
+<h1 style="text-align:center;">Meaning</h1>
 <hr>
 <div class="row">
 <div class="col-sm-6">
