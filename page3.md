@@ -1,5 +1,6 @@
 
 <h1 style="text-align:center;">Meaning</h1>
+<p style="text-align:center;">This page will introduce the fields of Morphology and Syntax!</p>
 <hr>
 <div class="row">
 <div class="col-sm-6">
