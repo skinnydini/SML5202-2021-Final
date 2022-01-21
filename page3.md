@@ -15,6 +15,14 @@
 </div>
 
 <iframe src="https://h5p.org/h5p/embed/1245475" width="1090" height="270" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Morphology Questions"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+  
+  <hr>
+  
+<h1 style="text-align:center;">Syntax</h1>
+  
+  <hr>
+  
+<p>Syntax moves further on from morphology, and examines how words are arranged into sentences (or 'utterances' in linguistic terms) to further affect meaning! You may be more aware of syntax than you think. Take a classic garden-path sentence for example.</p>
 
 
 <ul class="pagination justify-content-center" style="margin:20px 0">
