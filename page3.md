@@ -1,7 +1,7 @@
 <div style="text-align:center;">
 <h1>Meaning</h1>
 <hr>
-<img src="images/morph.png" alt="Morphological Example" style="width:100%;">
+<img src="images/morph.png" alt="Morphological Example" style="width:40%;">
 <hr>
 <p>Above is an image of a morphological tree! Throughout this section, we will explore what each part of this tree means, and what morphology is as a whole!</p>
 </div>
