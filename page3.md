@@ -20,11 +20,61 @@
   
 <hr>
   
-  <p>Morphology is the study of words and their component parts, known by linguists as 'morphemes'. It is instinctive to assume that only words are assigned meanings. However, upon closer analysis, we can see that it isn't just entire words that have meanings. For example, if I take a noun (for example, 'plant') and add an '-s' to it (to create 'plants'), I have changed the meaning of the word and it has become a plural. From this, we can infer that '-s' carries a meaning. But we know through our knowledge of the English language that '-s' isn't a word! Therefore, there must be a language unit smaller than a word that still carries meaning, and this is what we call a morpheme.</p>
-  
+  <p>Morphology is the study of words and their component parts, known by linguists as 'morphemes'. It is instinctive to assume that only words are assigned meanings. However, upon closer analysis, we can see that it isn't just entire words that have meanings. For example, if I take a noun like 'plant' and add an '-s' to it (to create 'plants'), I have changed the meaning of the word and it has become a plural. From this, we can infer that '-s' carries a meaning. But we know through our knowledge of the English language that '-s' isn't a word! Therefore, there must be a language unit smaller than a word that still carries meaning, and this is what we call a morpheme.</p>
+  <hr>
+  <p></p>
   <hr>
 </div>
+  
+ <div style="text-align:center;"> 
 
+  <table class="table table-striped table-bordered table-hover">
+  <tbody>
+    <tr>
+      <td><strong>-s</strong></td>
+      <td>3rd person singular present</td>
+      <td>she waits</td>
+    </tr>
+    <tr>
+      <td><strong>-ed</strong></td>
+      <td>past tense</td>
+      <td>he walked</td>
+    </tr>
+    <tr>
+      <td><strong>-ing</strong></td>
+      <td>progressive</td>
+      <td>she's watching</td>
+    </tr>
+    <tr>
+      <td><strong>-en</strong></td>
+      <td>past participle</td>
+      <td>she has eaten</td>
+    </tr>
+    <tr>
+      <td><strong>-s</strong></td>
+      <td>plural</td>
+      <td>three tables</td>
+    </tr>
+    <tr>
+      <td><strong>-'s</strong></td>
+      <td>possessive</td>
+      <td>Holly's cat</td>
+    </tr>
+    <tr>
+      <td><strong>-er</strong></td>
+      <td>comparative</td>
+      <td>you are taller</td>
+    </tr>
+    <tr>
+      <td><strong>-est</strong></td>
+      <td>superlative</td>
+      <td>you are the tallest</td>
+    </tr>
+  </tbody>
+</table>
+   
+  </div>
+  
 <iframe src="https://h5p.org/h5p/embed/1245475" width="1090" height="270" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Morphology Questions"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   
   <hr>
