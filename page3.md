@@ -30,7 +30,7 @@
   
  <div style="text-align:center;"> 
    
-   <p>The website <a href="https://ielanguages.com/morphology.html" target="_blank">ielanguages.com</a> defines the difference between inflectional and derivational morphemes as being that "derivational affixes are added to morphemes to form new words that may or may not be the same part of speech and inflectional affixes are added to the end of an existing word for purely grammatical reasons. Below is a table from the same site detailing the 8 inflectional morphemes found in English."</p>
+   <p>The second distinction to make between morphemes is whether they are inflectional or derivational. The website <a href="https://ielanguages.com/morphology.html" target="_blank">ielanguages.com</a> defines the difference between inflectional and derivational morphemes as being that "derivational affixes are added to morphemes to form new words that may or may not be the same part of speech and inflectional affixes are added to the end of an existing word for purely grammatical reasons." Below is a table from the same site detailing the 8 inflectional morphemes found in English.</p>
 
   <table class="table table-striped table-bordered table-hover">
   <tbody>
@@ -81,6 +81,8 @@
   
 <iframe src="https://h5p.org/h5p/embed/1245475" width="1090" height="270" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Morphology Questions"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   
+  <hr>
+  <p>Morphology is an enormous field with many different types of study, but the information above covers the basics. This topic will be touched upon more in the next page, as morphology occurs in all languages!</p>
   <hr>
   
 <h1 style="text-align:center;">Syntax</h1>
