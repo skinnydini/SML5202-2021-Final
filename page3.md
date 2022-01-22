@@ -16,7 +16,7 @@
   <iframe width="560" height="315" src="https://www.youtube.com/embed/93sK4jTGrss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   
-  <p>Morphology is the study of words and their component parts, known by linguists as 'morphemes'. It is instinctive to assume that only words are assigned meanings. However, upon closer analysis, we can see that it isn't just entire words that have meanings.</p>
+  <p>Morphology is the study of words and their component parts, known by linguists as 'morphemes'. It is instinctive to assume that only words are assigned meanings. However, upon closer analysis, we can see that it isn't just entire words that have meanings. For example, if I take a noun (for example, 'plant') and add an '-s' to it (to create 'plants'), I have changed the meaning of the word and it has become a plural. From this, we can infer that '-s' carries a meaning. But we know through our knowledge of the English language that '-s' isn't a word! Therefore, there must be a language unit smaller than a word that still carries meaning, and this is what we call a morpheme.</p>
   
   <hr>
 </div>
