@@ -1,5 +1,5 @@
-<h1>Page 4</h1>
-<p>write your content in this file as you would normally</p>
+<h1>Languages</h1>
+<p>Glossing and morphological analysis</p>
 
 
 <ul class="pagination justify-content-center" style="margin:20px 0">
