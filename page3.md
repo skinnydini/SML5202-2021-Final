@@ -26,6 +26,8 @@
   <hr>
 </div>
   
+  <hr>
+  
  <div style="text-align:center;"> 
    
    <p>The website <a href="https://ielanguages.com/morphology.html" target="_blank">ielanguages.com</a> defines the difference between inflectional and derivational morphemes as being that "derivational affixes are added to morphemes to form new words that may or may not be the same part of speech and inflectional affixes are added to the end of an existing word for purely grammatical reasons. Below is a table from the same site detailing the 8 inflectional morphemes found in English."</p>
