@@ -22,7 +22,7 @@
   
   <p>Morphology is the study of words and their component parts, known by linguists as 'morphemes'. It is instinctive to assume that only words are assigned meanings. However, upon closer analysis, we can see that it isn't just entire words that have meanings. For example, if I take a noun like 'plant' and add an '-s' to it (to create 'plants'), I have changed the meaning of the word and it has become a plural. From this, we can infer that '-s' carries a meaning. But we know through our knowledge of the English language that '-s' isn't a word! Therefore, there must be a language unit smaller than a word that still carries meaning, and this is what we call a morpheme.</p>
   <hr>
-  <p></p>
+  <p>There are multiple different types of morpheme, but the first distinction to make is between bound and free morphemes. Using the morphological tree to the left as an example, the morpheme 'depend' can stand on its own (note that, while this is a word, it also counts as a morpheme because it cannot be divided any further). However the morpheme '-ent' cannot stand on its own, and requires another morpheme to be attached to. The former is what linguists describe as a free morpheme, while the latter is bound. In most cases, the root (which is the morpheme that the word is built from, like '-depend-' in 'independent') is a free morpheme, while the affixes (morphemes that are attached to the root to create a new word) tend to be bound. However, this is not a hard and fast rule and you will come across some exceptions!</p>
   <hr>
 </div>
   
