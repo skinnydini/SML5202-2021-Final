@@ -1,4 +1,4 @@
-<h1>Languages</h1>
+<h1 style="text-align:center;">Languages</h1>
 <p>Glossing and morphological analysis</p>
 
 
