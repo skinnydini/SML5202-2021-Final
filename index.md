@@ -27,6 +27,8 @@ h1 {text-align:center;}
 
 </div>
 
+<p>This site is authored by 200920854.</p>
+
 <ul class="pagination justify-content-center" style="margin:20px 0">
   <li class="page-item disabled"><a class="page-link" href="#">Previous</a></li>
   <li class="page-item active"><a class="page-link" href="https://skinnydini.github.io/SML5202-2021-Final/">1</a></li>
