@@ -12,6 +12,9 @@
   text-align:center;
   font-style:italic;
 }
+  ul {
+  text-align:center;
+}
 </style>
 
 
