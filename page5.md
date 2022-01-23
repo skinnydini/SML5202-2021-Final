@@ -76,7 +76,7 @@
    <ul>
    <li><a href="https://www.qmul.ac.uk/careers/media/careers/downloads/Careers-After-a-Languages-or-Linguistics-Degree.pdf">qmul.ac.uk</a></li>
    <li><a href="https://www.ucl.ac.uk/pals/research/linguistics/study-linguistics/linguistics-careers">ucl.ac.uk</a></li>
-   <li><a https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree/linguistics">prospects.ac.uk</a></li>  
+   <li><a href= "https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree/linguistics">prospects.ac.uk</a></li>  
   </ul>
 
   <hr>
