@@ -5,6 +5,12 @@ img {
   margin-right: auto;
   width: 60%;
 }
+pre {
+  color:Tomato;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 </style>
 
 <h1 style="text-align:center;">Languages</h1>
