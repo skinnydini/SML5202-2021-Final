@@ -84,12 +84,18 @@
   <hr>
   <p>Morphology is an enormous field with many different types of study, but the information above covers the basics. This topic will be touched upon more in the next page, as morphology occurs in all languages!</p>
   <hr>
+
+  <div style="text-align:center;">
+<h1>Syntax</h1>
   
-<h1 style="text-align:center;">Syntax</h1>
-  
+  <hr>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tZTGglxxS7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <hr>
   
 <p>Syntax moves further on from morphology, and examines how words are arranged into sentences (or 'utterances' in linguistic terms) to further affect meaning! You may be more aware of syntax than you think. Take a classic garden-path sentence for example.</p>
+    
+
+</div>
 
 
 <ul class="pagination justify-content-center" style="margin:20px 0">
