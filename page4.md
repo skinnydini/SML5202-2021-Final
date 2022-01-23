@@ -11,7 +11,7 @@ img {
 
 <img src="images/langmap.png" alt="World map of languages">
 
-<p>Glossing and morphological analysis</p>
+<p style="text-align:center;">Glossing and morphological analysis</p>
 
 
 
