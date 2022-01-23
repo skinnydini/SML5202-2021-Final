@@ -94,7 +94,14 @@
   
 <p>Syntax moves further on from morphology, and examines how words are arranged into sentences (or 'utterances' in linguistic terms) to further affect meaning! You may be more aware of syntax than you think. Take a classic garden-path sentence for example.</p>
     
-
+<p style="text-align:center;color:Tomato;">The old man the boat.</p>
+    <p>The two images below show two different interpretations of this sentence, as it is <u>syntactically ambiguous</u>.</p>
+   <img src="images/gardenpathwrong.png" alt="Incorrect interpretation of sentence, syntax tree" style="width:80%;">
+    
+    <hr>
+  
+    <img src="images/gardenpath.png" alt="Correct interpretation of sentence, syntax tree" style="width:80%;"> 
+    
 </div>
 
 
