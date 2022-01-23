@@ -1,5 +1,18 @@
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+</style>
+
 <h1 style="text-align:center;">Languages</h1>
+
+<img src="images/langmap.png" alt="World map of languages">
+
 <p>Glossing and morphological analysis</p>
+
 
 
 <ul class="pagination justify-content-center" style="margin:20px 0">
