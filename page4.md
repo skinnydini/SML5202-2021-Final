@@ -7,10 +7,8 @@ img {
 }
 pre {
   color:Tomato;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+  text-align:center;
+  }
 </style>
 
 <h1 style="text-align:center;">Languages</h1>
@@ -30,11 +28,34 @@ pre {
 
 <p>One of the main ways linguists accomplish this is through a process called <strong><u>glossing</u></strong>, or more specifically interlinear glossing. An example of this is shown below:</p>
 
-<pre>German (cf. 9)
+<pre>
+German (cf. 9)
 
 unser-nVäter-n
 our-DAT.PLfather.PL-DAT.PL
-'to our fathers' (cf. singular Vater)</pre>
+'to our fathers' (cf. singular Vater)
+</pre>
+
+<p>To dissect the above example, the term 'interlinear glossing' stems from the idea that it occurs between the source text and the translation. In glossing, the original transcription is divided into morphemes, and then each of those morphemes are translated. The importance of glossing lies in the fact that sometimes, one language conveys a particular meaning through use of a word, whereas others use an affix or inflection, etc. Often word by word translation isn't accurate enough, and that is when morpheme by morpheme glossing is important.</p>
+
+<hr>
+
+<p>As seen in the red example, the morpheme glossed as 'PL' signifies plurality. There are entire directories of linguistically accepted glossing abbreviations, and one of these can be found on <a href="https://www.eva.mpg.de/lingua/resources/glossing-rules.php">this page</a> alongside other examples like the one above.</p>
+
+<hr>
+
+<h2 style="text-align:center;">Touching on Syntax</h2>
+
+<hr>
+
+<p>Syntax is one of the most important topics for interlanguage study, and this is the primary reason it can become so complex. Perhaps the easiest example of syntax in linguistic study, without delving too deep, is the differing word orders in modern European languages. For example, English and French have an entirely different ordering and positioning convention for adjectives when compared to eachother. Take the example below:</p>
+
+<pre>
+English: Big black car
+French: Grosse voiture noire
+Translation with French word-order maintained:
+Big car black 
+</pre>
 
 
 <ul class="pagination justify-content-center" style="margin:20px 0">
