@@ -1,3 +1,13 @@
+<style>
+  
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}  
+</style>
+
 
 <h1 style="text-align:center;">Meaning</h1>
 <p style="text-align:center;">This page will introduce the fields of Morphology and Syntax!</p>
