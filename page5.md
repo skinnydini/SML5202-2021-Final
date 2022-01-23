@@ -47,8 +47,40 @@
 
 
 <iframe src="https://h5p.org/h5p/embed/1246316" width="545" height="762" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Find Multiple Hotspots"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+  
+  <hr>
+  
+  <p>As displayed on this website, linguistics is a huge and relatively new field, and there are plenty of areas to get involved with. The six main fields of study are as follows:</p>
+  
+  <ul>
+  <li>Phonetics</li>
+  <li>Phonology</li>
+  <li>Morphology</li>
+  <li>Syntax</li>
+  <li>Semantics</li>
+  <li>Pragmatics</li>
+</ul>
 
+  <p>but broader areas of study include:</p>
+  
+ <ul>
+   <li>Computational Linguistics</li>
+   <li>Forensic Linguistics</li>
+   <li>Neurolinguistics</li>
+   <li>Psycholinguistics</li>
+   <li>and more!!</li>
+  </ul>
+  
+  <p>The following links offer careers advice for linguistics:</p>
+  
+   <ul>
+   <li><a href="https://www.qmul.ac.uk/careers/media/careers/downloads/Careers-After-a-Languages-or-Linguistics-Degree.pdf">qmul.ac.uk</a></li>
+   <li><a href="https://www.ucl.ac.uk/pals/research/linguistics/study-linguistics/linguistics-careers">ucl.ac.uk</a></li>
+   <li><a https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree/linguistics">prospects.ac.uk</a></li>  
+  </ul>
 
+  <hr>
+  
 <ul class="pagination justify-content-center" style="margin:20px 0">
   <li class="page-item"><a class="page-link" href="https://skinnydini.github.io/SML5202-2021-Final/page4.html">Previous</a></li>
   <li class="page-item"><a class="page-link" href="https://skinnydini.github.io/SML5202-2021-Final/">1</a></li>
