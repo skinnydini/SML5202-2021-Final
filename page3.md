@@ -96,11 +96,14 @@
     
 <p style="text-align:center;color:Tomato;">The old man the boat.</p>
     <p>The two images below show two different interpretations of this sentence, as it is <u>syntactically ambiguous</u>.</p>
-   <img src="images/gardenpathwrong.png" alt="Incorrect interpretation of sentence, syntax tree" style="width:80%;">
+   <img src="images/gardenpathwrong.png" alt="Incorrect interpretation of sentence, syntax tree" style="width:50%;">
+    <a href="https://commons.wikimedia.org/wiki/File:GardenPath1_svg.svg">Jochen Burghardt</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
     
     <hr>
   
-    <img src="images/gardenpath.png" alt="Correct interpretation of sentence, syntax tree" style="width:80%;"> 
+    <img src="images/gardenpath.png" alt="Correct interpretation of sentence, syntax tree" style="width:50%;">
+    <a href="https://commons.wikimedia.org/wiki/File:GardenPath2_svg.svg">Jochen Burghardt</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+   
     
 </div>
 
