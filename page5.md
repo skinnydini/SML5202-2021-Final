@@ -13,7 +13,9 @@
 <p>Moving beyond just studying language, linguistics research crosses heavily over into fields like neuroscience and psychology. In order to illustrate this, linguists often refer to the medical conditions known as aphasia. Aphasia is a condition in which physiological damage occurs to the brain and, as a result, language capacity is impaired. See the quote below from <a href="https://www.healthline.com/health/brocas-aphasia#:~:text=Broca's%20aphasia%20is%20a%20non,speech%20and%20for%20motor%20movement.">healthline.com:</a>
   
   <pre>
-  Broca’s aphasia results from damage to a part of the brain called Broca’s area, which is located in the frontal lobe, usually on the left side. It’s one of the parts of the brain responsible for speech and for motor movement. It’s named for Pierre Paul Broca, a French physician who discovered the area in 1861. Broca’s aphasia is also referred to as expressive aphasia.
+  Broca’s aphasia results from damage to a part of the brain called Broca’s area, which is located in the frontal lobe,
+  usually on the left side. It’s one of the parts of the brain responsible for speech and for motor movement. It’s named
+  for Pierre Paul Broca, a French physician who discovered the area in 1861. Broca’s aphasia is also referred to as expressive aphasia.
   </pre>
 
 
