@@ -33,12 +33,15 @@
   area of the brain controls human language. It’s also near where we store our personal dictionaries. Someone with
   Wernicke’s aphasia may have difficulty processing the meaning of spoken words.
   </pre>
+  <hr>
   
-  <div col-sm-6>
+  <div class="row">
+  
+  <div class="col-sm-6">
   <img src="images/broca.png" alt="Image of Broca's area in the brain">
   </div>
   
-  <div col-sm-6>
+  <div class="col-sm-6">
   <img src="images/wernicke.png" alt="Image of Wernicke's area in the brain">
   </div>
 
