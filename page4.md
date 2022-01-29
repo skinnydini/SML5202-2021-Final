@@ -20,7 +20,7 @@ pre {
 
 <hr>
 
-<p style="text-align:center;">As evident from the map pictured above, English is not the only lanuage on the planet. In fact, there are roughly 6,5000 languages alive and being spoken as of current! Linguistics aims to study and explore all of human languages, and not just one or two. In order to do this, we must apply our knowledge of linguistics (phonetics, morphology, syntax, and so on) to other world languages! </p>
+<p style="text-align:center;">As evident from the map pictured above, English is not the only lanuage on the planet. In fact, there are roughly 6,500 languages alive and being spoken as of current! Linguistics aims to study and explore all of human languages, and not just one or two. In order to do this, we must apply our knowledge of linguistics (phonetics, morphology, syntax, and so on) to other world languages! </p>
 
 <hr>
 
